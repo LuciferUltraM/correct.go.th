@@ -7,3 +7,25 @@
 	width: 150px;
 	height: 55px;
 }
+
+footer a {
+	color: #666;	
+}
+
+footer h4 {
+	font-size: 1em;
+	font-weight: bold;
+	margin: 0 0 10px 0;
+	text-transform: none;
+}
+
+footer ul {
+	padding: 0;
+}
+
+footer li {
+	list-style-type: none;
+	margin: 0 0 5px 0;
+	padding: 0;
+	font-size: .917em;
+}
