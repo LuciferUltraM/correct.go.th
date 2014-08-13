@@ -54,3 +54,16 @@ footer li {
 	font-size: .917em;
 
 }
+
+.newbullet {
+background: #ca0002;
+font-size: 10px;
+margin: 0px 5px 0px 0px;
+padding: 2px 5px 2px 5px;
+color: #fff;
+}
+
+.underline-dashed-brown {
+border-bottom: 1px dashed #dbc3c3;
+margin-bottom: 10px;
+}
