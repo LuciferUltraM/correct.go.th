@@ -25,12 +25,16 @@
 	border-right: 1px solid #e4e4e4;
 	border-left: 1px solid #e4e4e4;
 	border-bottom: 1px solid #e4e4e4;
+    margin-bottom: 20px;
 }
 
 .sidebar-inner h3 {
 	border-bottom: 1px solid #880000;
 }
 
+.link-more {
+	font-size: 12px;
+}
 
 footer a {
 	color: #666;	
