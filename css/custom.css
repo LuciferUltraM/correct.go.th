@@ -71,3 +71,8 @@ color: #fff;
 border-bottom: 1px dashed #dbc3c3;
 margin-bottom: 10px;
 }
+
+.thumbnail-announce {
+    width: 240px;
+    height: 150px;
+}
