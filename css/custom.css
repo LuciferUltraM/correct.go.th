@@ -29,7 +29,8 @@
 }
 
 .sidebar-inner h3 {
-	border-bottom: 1px solid #880000;
+    color: #b70000;
+	border-bottom: 3px solid  #eae1e1; 
 }
 
 .link-more {
