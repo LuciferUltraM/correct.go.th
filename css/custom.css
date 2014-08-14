@@ -26,10 +26,12 @@
 	border-left: 1px solid #e4e4e4;
 	border-bottom: 1px solid #e4e4e4;
     margin-bottom: 20px;
+/*    margin: 0px 3px 20px 3px;   */
 }
 
 .sidebar-inner h3 {
-	border-bottom: 1px solid #880000;
+    color: #b70000;
+	border-bottom: 3px solid  #eae1e1; 
 }
 
 .link-more {
@@ -76,3 +78,13 @@ margin-bottom: 10px;
     width: 240px;
     height: 150px;
 }
+
+a {
+color: #880000;
+text-decoration: none;
+}
+a:hover, a:focus {
+color: #d80202;
+text-decoration: none;
+}
+
