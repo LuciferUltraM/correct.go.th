@@ -62,16 +62,16 @@ footer li {
 }
 
 .newbullet {
-background: #ca0002;
-font-size: 10px;
-margin: 0px 5px 0px 0px;
-padding: 2px 5px 2px 5px;
-color: #fff;
+	background: #ca0002;
+	font-size: 10px;
+	margin: 0px 5px 0px 0px;
+	padding: 2px 5px 2px 5px;
+	color: #fff;
 }
 
 .underline-dashed-brown {
-border-bottom: 1px dashed #dbc3c3;
-margin-bottom: 10px;
+	border-bottom: 1px dashed #dbc3c3;
+	margin-bottom: 10px;
 }
 
 .thumbnail-announce {
@@ -80,11 +80,18 @@ margin-bottom: 10px;
 }
 
 a {
-color: #880000;
-text-decoration: none;
+	color: #880000;
+	text-decoration: none;
 }
 a:hover, a:focus {
-color: #d80202;
-text-decoration: none;
+colo	r: #d80202;
+	text-decoration: none;
 }
 
+.alt-section {
+	background-color: #e9e9e9;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
