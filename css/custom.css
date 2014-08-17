@@ -30,8 +30,11 @@
 }
 
 .sidebar-inner h3 {
-    color: #b70000;
-	border-bottom: 3px solid  #eae1e1; 
+	color: #b70000;
+	border-bottom: 3px solid  #eae1e1;
+	background-color: antiquewhite;
+	padding: 10px 10px 5px 10px;
+
 }
 
 .link-more {
@@ -84,17 +87,18 @@ a {
 	text-decoration: none;
 }
 a:hover, a:focus {
-colo	r: #d80202;
+	color: #d80202;
 	text-decoration: none;
 }
 
 .alt-section {
-	background-color: #e9e9e9;
+	background-color: brown; /*#e9e9e9*/;
 	padding-top: 20px;
 	padding-bottom: 10px;
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
+
 
 .icon-md {
   font-size: 18px;
@@ -136,4 +140,38 @@ colo	r: #d80202;
 .designation{
 	text-align: center;
 	display: block;
+}
+
+
+/* Link out */
+.linkout-items{
+	position: relative;
+	left: 0px;
+	top: 20px;
+	transform: translate3d(0px, 0px, 0px);
+}
+
+.linkout-items li{
+	float: left;
+	padding: 0;
+	margin: 0;
+	display: list-item;
+	list-style: none;
+}
+.linkout-items .thumbnail{
+	bottom: 0px;
+	height: 250px;
+}
+.linkout-items .thumbnail img{
+	width: 165px;
+}
+.linkout-items .item-inner{
+	margin: 0 20px 20px 0;
+	text-align: center;
+	background: #fff;
+	padding: 10px;
+	border-bottom: 1px solid #e1e1e1;
+}
+.clear{
+	clear: both;
 }

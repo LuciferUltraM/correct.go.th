@@ -175,6 +175,67 @@
 
 </div>
 
+
+<!-- Link Out -->
+<div class="container">
+  <div class="row">
+      <div class="sidebar-inner col-xs-12 col-md-12" id="plan-news">
+	    <h3>รายงานและวารสาร</h3>
+	    <ul class="linkout-items">
+                    <li class="linkout-item apps">
+                        <div class="item-inner">
+                            <div class="thumbnail">
+                                <img src="http://www.correct.go.th/correct2009/upload/images/magazine/57/cover57.jpg" alt="รายงานประจำปี">
+                                
+                            </div>
+                            <h5>รายงานประจำปี</h5>
+                        </div>
+                    </li><!--/.linkout-item-->
+		    <li class="linkout-item apps">
+                        <div class="item-inner">
+                            <div class="thumbnail">
+                                <img src="http://www.correct.go.th/correct2009/images/asean_logo.png" alt="ศูนย์ราชทัณฑ์อาเซียน">
+                                
+                            </div>
+                            <h5>ศูนย์ราชทัณฑ์อาเซียน</h5>
+                        </div>
+                    </li><!--/.linkout-item-->
+		    <li class="linkout-item apps">
+                        <div class="item-inner">
+                            <div class="thumbnail">
+                                <img src="http://www.correct.go.th/asean/default/journals/cover_asean.png" alt="Special ราชทัณฑ์อาเซียน">
+                                
+                            </div>
+                            <h5>Special ราชทัณฑ์อาเซียน</h5>
+                        </div>
+                    </li><!--/.linkout-item-->
+		    <li class="linkout-item apps">
+                        <div class="item-inner">
+                            <div class="thumbnail">
+                                <img src="http://www.correct.go.th/correct2009/upload/images/magazine/57/Journal1_57.jpg" alt="วารสารราชทัณฑ์">
+                                
+                            </div>
+                            <h5>วารสารราชทัณฑ์</h5>
+                        </div>
+                    </li><!--/.linkout-item-->
+                    
+		    <li class="linkout-item apps">
+                        <div class="item-inner">
+                            <div class="thumbnail">
+                                <img src="http://www.correct.go.th/correct2009/upload/images/magazine/56/1_1.jpg" alt="วารสาร/จุลสาร กสส">
+                                
+                            </div>
+                            <h5>วารสาร/จุลสาร กสส</h5>
+                        </div>
+                    </li><!--/.linkout-item-->
+	    </ul>
+      </div>
+    
+  </div>
+  <div class="clear"></div>
+</div>
+
+
 <!-- Plan -->
 <div class="alt-section">
 <div class="container">
@@ -258,6 +319,9 @@
   </div>
 </div>
 </div>
+
+
+
 
 <!-- Downloads -->
 <div class="alt-section">
@@ -401,36 +465,36 @@
 	<div class="row">
 		<div class="sidebar-inner col-xs-12 col-md-12">
 			<h3>ศูนย์เทคโนโลยีสารสนเทศ<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
-      <div class="row">
-       <div class="col-6 col-sm-6 col-lg-4">
-        <h4>ศูนย์เทคโนโลยีสารสนเทศ</h4>
-        <div class="views-field-created">วันที่ 13 ส.ค. 2557 เวลา 15:20</div>
-        <p><a href="#">ขอให้ตรวจสอบประวัติบุคคล</a></p>
+			<div class="row">
+			 <div class="col-6 col-sm-6 col-lg-4">
+			  <h4>ศูนย์เทคโนโลยีสารสนเทศ</h4>
+			  <div class="views-field-created">วันที่ 13 ส.ค. 2557 เวลา 15:20</div>
+			  <p><a href="#">ขอให้ตรวจสอบประวัติบุคคล</a></p>
+			</div>
+			<div class="col-6 col-sm-6 col-lg-4">
+			  <h4>กองแผนงาน</h4>
+			  <div class="views-field-created">วันที่ 8 ส.ค. 2557 เวลา 18:26</div>
+			  <p><a href="#">เร่งรัดการดำเนินงานตามตัวชี้วัดและแจ้งแนวทางการปฏิบัติในการนำเข้าข้อมูลสู่ระบบข้อมูลผู้ต้องขังด้วยคอมพิวเตอร์</a></p>
+			</div>
+			<div class="col-6 col-sm-6 col-lg-4">
+			  <h4>กองแผนงาน</h4>
+			  <div class="views-field-created">วันที่ 18 ก.ค. 2557 เวลา 11:01</div>
+			  <p><a href="#">ยกเลิกการรายงานสถิติคดีอาญาที่น่าสนใจ ยกเลิกการรายงานสถิติคดีอาญาที่น่าสนใจ</a></p>
+			</div>
+			<div class="col-6 col-sm-6 col-lg-4">
+			  <h4>กองแผนงาน</h4>
+			  <div class="views-field-created">วันที่ 17 ก.ค. 2557 เวลา 09:44</div>
+			  <p><a href="#">ขอให้ตรวจสอบประวัติบุคคล</a></p>
+			</div>
+			<div class="col-6 col-sm-6 col-lg-4">
+			  <h4>กองแผนงาน</h4>
+			  <div class="views-field-created">วันที่ 27 มิ.ย. 2557 เวลา 14:55</div>
+			  <p><a href="#">แจ้งแผนการเปิดเครื่องคอมพิวเตอร์แม่ข่ายเพื่อ Synchronize ข้อมูลเข้าสู่ส่วนกลาง</a></p>
+			</div>
+		  
+		      </div>
+		</div>
       </div>
-      <div class="col-6 col-sm-6 col-lg-4">
-        <h4>กองแผนงาน</h4>
-        <div class="views-field-created">วันที่ 8 ส.ค. 2557 เวลา 18:26</div>
-        <p><a href="#">เร่งรัดการดำเนินงานตามตัวชี้วัดและแจ้งแนวทางการปฏิบัติในการนำเข้าข้อมูลสู่ระบบข้อมูลผู้ต้องขังด้วยคอมพิวเตอร์</a></p>
-      </div>
-      <div class="col-6 col-sm-6 col-lg-4">
-        <h4>กองแผนงาน</h4>
-        <div class="views-field-created">วันที่ 18 ก.ค. 2557 เวลา 11:01</div>
-        <p><a href="#">ยกเลิกการรายงานสถิติคดีอาญาที่น่าสนใจ ยกเลิกการรายงานสถิติคดีอาญาที่น่าสนใจ</a></p>
-      </div>
-      <div class="col-6 col-sm-6 col-lg-4">
-        <h4>กองแผนงาน</h4>
-        <div class="views-field-created">วันที่ 17 ก.ค. 2557 เวลา 09:44</div>
-        <p><a href="#">ขอให้ตรวจสอบประวัติบุคคล</a></p>
-      </div>
-      <div class="col-6 col-sm-6 col-lg-4">
-        <h4>กองแผนงาน</h4>
-        <div class="views-field-created">วันที่ 27 มิ.ย. 2557 เวลา 14:55</div>
-        <p><a href="#">แจ้งแผนการเปิดเครื่องคอมพิวเตอร์แม่ข่ายเพื่อ Synchronize ข้อมูลเข้าสู่ส่วนกลาง</a></p>
-      </div>
-
-    </div>
-  </div>
-</div>
 </div>
 </div>
 <?php include "footer.php"; ?>
