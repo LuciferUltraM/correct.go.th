@@ -128,45 +128,49 @@
    </div>
    
    <div class="annoucenews sidebar-inner col-xs-12 col-md-8">
-     <h3><span class="glyphicon glyphicon-pushpin icon-md icon-color1"></span>ข่าวกองประชาสัมพันธ์<a class="link-more pull-right " href="#">เพิ่มเติม...</a></h3>
+     <h3 id="information-news-title"><span class="glyphicon glyphicon-pushpin icon-md icon-color1"></span>ข่าวกองประชาสัมพันธ์<a class="link-more pull-right " href="#">เพิ่มเติม...</a></h3>
      
-          <div class="row">
-           <div class="col-md-4"><img alt="100x67" class="thumbnail thumbnail-announce" src="http://www.correct.go.th/correct2009/upload/images/p9.jpg"></div>
-           <div class="col-md-8">
-            <h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
-            <p>เมื่อ วันที่ 13 ส.ค. 2557 เวลา 15:35</p>
-            <p><span class="newbullet">NEW</span><a href="#" >เรือนจำอำเภอเบตง และเจ้าหน้าที่ร่วมพิธีถวายพระพรชัยมงคลและบำเพ็ญกุศลอุทิศถวายเป็นพระราชกุศล เนื่องในวันมหามงคลเฉลิมพระชนมพรรษา สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ</a></p>
-          </div>
-        </div>
-        <hr>
-        <div class="row">
-         <div class="col-md-4"><img alt="100x67" class="thumbnail thumbnail-announce" src="http://www.correct.go.th/correct2009/upload/images/DSCN6143.jpg"></div>
-         <div class="col-md-8">
-          <h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
-          <p>เมื่อ วันที่ 13 ส.ค. 2557 เวลา 14:15</p>
-          <p><span class="newbullet">NEW</span><a href="#" >ผู้บัญชาการเรือนจำจังหวัดสมุทรสาคร นำคณะเจ้าหน้าที่ร่วมกิจกรรมเฉลิมพระเกียรติสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ</a></p>
-        </div>
-      </div>
-      <hr>
-      <div class="row">
-       <div class="col-md-4"><img alt="100x67" class="thumbnail thumbnail-announce" src="http://www.correct.go.th/correct2009/upload/images/DSC00152.jpg"></div>
-       <div class="col-md-8">
-        <h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
-        <p>เมื่อ วันที่ 13 ส.ค. 2557 เวลา 10:54</p>
-        <p><span class="newbullet">NEW</span><a href="#" >เรือนจำจังหวัดสตูล จัดกิจกรรมให้แก่ผู้ต้องขังเนื่องในวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าพระบรมราชินีนาถ 12 สิงหาคม 2557</a></p>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-     <div class="col-md-4"><img alt="100x67" class="thumbnail thumbnail-announce" src="http://www.correct.go.th/correct2009/upload/images/information54/IMG_2920.JPG"></div>
-     <div class="col-md-8">
-      <h4>ประชาสัมพันธ์ : กรมราชทัณฑ์</h4>
-      <p>เมื่อ วันที่ 13 ส.ค. 2557 เวลา 10:17</p>
-      <p><span class="newbullet">NEW</span><a href="#" >ทัณฑสถานเปิืดทุ่งเบญจา จัดกิจกรรมเฉลิมพระเกียรติ สมเด็จพระนางเจ้าสิริกิติ์พระบรมราชินีนาถ เนื่องในโอกาสเฉลิมพระชนมพรรษา 82 พรรษา 12 สิงหาคม 2557</a></p>
-    </div>
-  </div>
-  <hr>    
-
+     	<div class="row">
+     		<div class="col-md-4">
+     			<h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
+	 			<p>วันที่ 18 ส.ค. 2557 เวลา 09:47</p>
+	 			<p><a href="#">เรือนจำจังหวัดสมุทรสาครดำเนินการปลูกป่าชายเลนเฉลิมพระเกียรติเนื่องในวันแม่แห่งชาติ</a></p>
+     			<img alt="100x67" class="thumbnail col-md-12" src="http://www.correct.go.th/correct2009/upload/images/aug%208-17-2014.jpg">
+     		</div>
+     		<div class="col-md-4">
+     			<h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
+	 			<p>วันที่ 18 ส.ค. 2557 เวลา 11:03</p>
+	 			<p><a href="#">ตรวจค้นทัณฑสถานบำบัดพิเศษพระนครศรีอยุธยา ตามนโยบายปราบปรามยาเสพติดฯ</a></p>
+     			<img alt="100x67" class="thumbnail col-md-12" src="http://www.correct.go.th/correct2009/upload/images/aug%206-17-2014.jpg">
+     		</div>
+     		<div class="col-md-4">
+     			<h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
+	 			<p>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</p>
+	 			<p><a href="#">เรือนจำจังหวัดเพชรบูรณ์จัดกิจกรรม"ปักดำวันแม่ เก็บเกี่ยววันพ่อ"</a></p>
+     			<img alt="100x67" class="thumbnail col-md-12" src="http://www.correct.go.th/correct2009/upload/images/aug%204-17-2014.jpg">
+     		</div>
+     	</div>
+     
+	 	<div class="row">
+     		<div class="col-md-4">
+     			<h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
+	 			<p>วันที่ 18 ส.ค. 2557 เวลา 09:47</p>
+	 			<p><a href="#">กรมราชทัณฑ์จัดกิจกรรมทำบุญฯและปฏิบัติธรรม ถวายพระบาทสมเด็จพระเจ้าอยู่หัว(ประจำเดือนสิงหาคม</a></p>
+     			<img alt="100x67" class="thumbnail col-md-12" src="http://www.correct.go.th/correct2009/upload/images/aug%201-17-2014.jpg">
+     		</div>
+     		<div class="col-md-4">
+     			<h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
+	 			<p>วันที่ 15 ส.ค. 2557 เวลา 17:09</p>
+	 			<p><a href="#">เรือนจำจังหวัดประจวบคีรีขันธ์จัดงานเยี่ยมญาติแบบใกล้ชิด</a></p>
+     			<img alt="100x67" class="thumbnail col-md-12" src="http://www.correct.go.th/correct2009/upload/images/aug%2020-15-2014.jpg">
+     		</div>
+     		<div class="col-md-4">
+     			<h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
+	 			<p>วันที่ 15 ส.ค. 2557 เวลา 15:35</p>
+	 			<p><a href="#"> เรือนจำจังหวัดสตูลจัดกิจกรรมบำเพ็ญสาธารณะประโยชน์พัฒนามัสยิด</a></p>
+     			<img alt="100x67" class="thumbnail col-md-12" src="http://www.correct.go.th/correct2009/upload/images/aug%2017-15-2014.jpg">
+     		</div>
+     	</div>
        
 </div>
 </div>
@@ -179,8 +183,8 @@
 <!-- Link Out -->
 <div class="container">
   <div class="row">
-      <div class="sidebar-inner col-xs-12 col-md-12" id="plan-news">
-	    <h3>รายงานและวารสาร</h3>
+      <div class="sidebar-inner col-xs-12 col-md-12">
+	    <h3 id="report-news-title">รายงานและวารสาร</h3>
 	    <ul class="linkout-items">
                     <li class="linkout-item apps">
                         <div class="item-inner">
@@ -241,7 +245,7 @@
 <div class="container">
 	<div class="row">
 		<div class="sidebar-inner col-xs-12 col-md-12" id="plan-news">
-			<h3>กองแผนงาน<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
+			<h3 id="plan-news-title">กองแผนงาน<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
       <div class="row">
        <div class="col-6 col-sm-6 col-lg-4">
         <h4>กลุ่มงานติดตามและประเมินผล</h4>
