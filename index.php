@@ -145,7 +145,7 @@
      		</div>
      		<div class="col-md-4">
      			<h4>ฝ่ายประชาสัมพันธ์และโสตทัศนูปกรณ์ กรมราชทัณฑ์</h4>
-	 			<small>วันที่ 18 ส.ค. 2557 เวลา 10:35</small>>
+	 			<small>วันที่ 18 ส.ค. 2557 เวลา 10:35</small>
 	 			<p><a href="#">เรือนจำจังหวัดเพชรบูรณ์จัดกิจกรรม"ปักดำวันแม่ เก็บเกี่ยววันพ่อ" <span class="newbullet">NEW</span></a></p>
      			<img alt="100x67" class="thumbnail col-md-12" src="http://www.correct.go.th/correct2009/upload/images/aug%204-17-2014.jpg">
      		</div>
