@@ -61,9 +61,11 @@
   <hr>
   <div class="row">
       <div class="col-sm-6">
-        <p>กรมราชทัณฑ์ Department of Correction</p>
-        <p>๒๒๒ ถนนนทบุรี ๑ ตำบลสวนใหญ่ อำเภอเมือง จังหวัดนนทบุรี ๑๑๐๐๐</p>
-        <p>โทร ๐ ๒๙๖๗ ๒๒๒๒ Call center อีเมล์ webmaster@correct.go.th</p>
+      <address>
+	  <strong>กรมราชทัณฑ์ Department of Correction</strong><br>
+	  ๒๒๒ ถนนนทบุรี ๑ ตำบลสวนใหญ่ อำเภอเมือง จังหวัดนนทบุรี ๑๑๐๐๐<br>
+	  <abbr title="Phone">โทร</abbr> ๐ ๒๙๖๗ ๒๒๒๒ Call center อีเมล์ webmaster@correct.go.th
+	  </address>
       </div>
       <div align="right" class="col-sm-6">
         <p>All rights reserved &copy; <a href="http://www.code-mobi.com">Code Mobi</a> 2014</p>

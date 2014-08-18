@@ -33,7 +33,7 @@
         <tbody>
           <tr>
             <td width="200" valign="top" align="right">
-              <a href="index.html">
+              <a href="/">
                 <img width="35" height="25" border="0" src="images/thai_lang_icon.png">ไทย</img>
               </a>
               <a target="_blank" href="http://www.correct.go.th/eng/correcteng">
