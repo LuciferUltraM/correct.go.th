@@ -34,9 +34,9 @@
 }
 
 .sidebar-inner h3 {
-	color: #A93030;
+	color: #fff;
 	border-bottom: 3px solid  #eae1e1;
-	background-color: #FADA78;
+	background-color: #ca0002;
 	padding: 10px 10px 5px 10px;
 }
 
@@ -45,18 +45,18 @@
 }
 
 #report-news-title, #publish-documents-title, #buy-news-title {
-	color: #A43A4C;
-	background-color: #93BA77;
+	color: #fff;
+	background-color: #56A300;
 }
 
 #plan-news-title, #download-documents-title, #technology-news-title {
-	color: #A43A4C;
-	background-color: #9ED3DD;
+	color: #fff;
+	background-color: #0070AD;
 }
 
 .link-more {
 	font-size: 12px;
-	color: #A93030;
+	color: #fff;
 }
 
 footer a {
@@ -125,7 +125,7 @@ a:hover, a:focus {
   height: 30px;
   width: 30px;
   line-height: 30px;
-  color: #fff;
+  color: #ca0002;
   margin-right: 10px;
   background-color: rgba(0, 0, 0, 0.4);
   text-align: center;
@@ -134,7 +134,7 @@ a:hover, a:focus {
   margin-bottom: 10px;
 }
 .icon-color1 {
-  background-color: #ca0002;
+  background-color: #fff;
 }
 .icon-color2 {
   background-color: #2ecc71;
