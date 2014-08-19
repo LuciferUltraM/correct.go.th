@@ -1,3 +1,5 @@
+
+
 .magazine-cover img {
 	width: 150px;
 	height: 190px;
@@ -34,7 +36,7 @@
 }
 
 .sidebar-inner h3 {
-	color: #A93030;
+	color: #A92928;
 	border-bottom: 3px solid  #eae1e1;
 	background-color: #FADA78;
 	padding: 10px 10px 5px 10px;
@@ -44,14 +46,32 @@
 	
 }
 
-#report-news-title {
+#report-news-title, #docs-public-title, #buy-news-title {
 	color: #A43A4C;
 	background-color: #93BA77;
 }
 
-#plan-news-title {
+#plan-news-title, #docs-downloads-title, #technology-news-title {
 	color: #A43A4C;
 	background-color: #9ED3DD;
+}
+
+#msg-gm-title {
+	color: #004F71;
+	background-color: #A9DAF3;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 10px 10px 10px 10px;
+}
+
+.msg-gm {
+	align: center;
+	text-align: center;
+}
+
+#thumbnail-msg-gm {
+	margin-top: 23px;
+	width: 162px;
 }
 
 .link-more {
