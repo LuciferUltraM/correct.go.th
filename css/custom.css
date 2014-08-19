@@ -44,12 +44,12 @@
 	
 }
 
-#report-news-title {
+#report-news-title, #publish-documents-title, #buy-news-title {
 	color: #A43A4C;
 	background-color: #93BA77;
 }
 
-#plan-news-title {
+#plan-news-title, #download-documents-title, #technology-news-title {
 	color: #A43A4C;
 	background-color: #9ED3DD;
 }

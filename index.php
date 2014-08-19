@@ -325,7 +325,7 @@
 <div class="container">
  <div class="row">
   <div class="doc-annouce sidebar-inner col-xs-12 col-md-4"  id="publish-documents">
-    <h3><span class="glyphicon glyphicon-file">เอกสารเผยแพร่</span><a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
+    <h3 id="publish-documents-title"><span class="glyphicon glyphicon-file">เอกสารเผยแพร่</span><a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
     <div class="underline-dashed-brown">
       <p>วันที่ 4 ส.ค. 2557 เวลา 11:45 | สำนักวิจัยและพัฒนาระบบงานราชทัณฑ์</p>
       <p><span class="newbullet">NEW</span><a href="#" >ประชาสัมพันธ์เผยแพร่ เว็บไซต์งานวิจัยเกี่ยวกับงานราชทัณฑ์ Website Research of Correctional Database</a></p>
@@ -348,7 +348,7 @@
     </div>
   </div>
   <div class="doc-downloads sidebar-inner col-xs-12 col-md-4" id="download-documents">
-    <h3><span class="glyphicon glyphicon-file">เอกสารดาวน์โหลด</span><a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
+    <h3 id="download-documents-title"><span class="glyphicon glyphicon-file">เอกสารดาวน์โหลด</span><a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
     <div class="underline-dashed-brown ">
      <p>วันที่ 13 ส.ค. 2557 เวลา 13:46 | กองสังคมสงเคราะห์</p>
      <p><span class="newbullet">NEW</span><a href="#" >แบบฟอร์มขอรับการสนับสนุนเงินผลพลอยได้ ประเภทเงินทุนพัฒนาพฤตินิสัยเพื่อการจัดสวัสดิการผู้ต้องขัง (เงินหกในสิบส่วน)"</a></p>
@@ -419,7 +419,7 @@
 <div class="container" id="buy-news" >
 	<div class="row">
 		<div class="sidebar-inner col-xs-12 col-md-12">
-			<h3>จัดซื้อ - จัดจ้าง<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
+			<h3 id="buy-news-title">จัดซื้อ - จัดจ้าง<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
       <div class="row">
        <div class="col-6 col-sm-6 col-lg-4">
         <h4>เรือนจำอำเภอปากพนัง</h4>
