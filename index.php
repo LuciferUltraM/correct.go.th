@@ -2,62 +2,12 @@
 
 <!-- container -->  
   <div class="container">
-  <div class="row">
-  	<div class="msg-gm col-xs-6 col-md-3">
-		  		<a href="#"><img id="thumbnail-msg-gm" class="img-responsive center-block" src="images/gm_correct.jpg" alt="..."></a>
-		  		<h4 id="msg-gm-title">สารจากผู้บริหาร</h4>
+  	<div class="row">
+  	<div class="col-xs-12 col-md-12">
+    <img  class="img-responsive center-block" src="images/carousel/ExcutiveMsg.png" alt="...">
   	</div>
-  	<div class="col-xs-12 col-md-9 col-centered">
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-      </ol>
-
-      <!-- Wrapper for slides -->
-      <div class="carousel-inner">
-<!--
-       <div class="item active">
-         <img src="images/carousel/ExcutiveMsg.png" alt="...">
-         <div class="carousel-caption">
-           สารจากผู้บริหาร
-         </div>
-       </div>
--->
-       <div class="item active">
-         <img src="images/carousel/banner_qualitypplshirt.jpg" alt="...">
-         <div class="carousel-caption">
-           เสื้อผลิตผลคนดี
-         </div>
-       </div>
-       <div class="item">
-         <img src="images/carousel/NRC_Backdrop2.jpg" alt="...">
-         <div class="carousel-caption">
-           คืนความสุข
-         </div>
-       </div>
-       <div class="item">
-         <img src="images/carousel/new_stat.jpg" alt="...">
-         <div class="carousel-caption">
-           สถิต
-         </div>
-       </div>
-     </div>
-
-     <!-- Controls -->
-     <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-       <span class="glyphicon glyphicon-chevron-left"></span>
-     </a>
-     <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-       <span class="glyphicon glyphicon-chevron-right"></span>
-     </a>
-   </div>
-  	</div>
-   </div>
-  </div>
+    </div>
+ </div>
  
  <div class="container">
         <!-- Grid demo navbar -->
@@ -100,7 +50,7 @@
  <div class="container">
 
    <div class="row">
-     <div class="hotnews sidebar-inner col-xs-12 col-md-4">
+     <div class="hotnews sidebar-inner col-xs-12 col-md-4 ">
       <h3><span class="glyphicon glyphicon-list icon-md icon-color1"></span>ข่าวด่วน<a class="link-more pull-right " href="#">เพิ่มเติม...</a></h3>
       <div class="underline-dashed-brown">
        <div class="views-field-created">6 ส.ค. 2557 เวลา 10:18</div>
@@ -137,6 +87,55 @@
    </div>
    
    <div class="annoucenews sidebar-inner col-xs-12 col-md-8">
+   <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+<!--
+       <div class="item active">
+         <img src="images/carousel/ExcutiveMsg.png" alt="...">
+         <div class="carousel-caption">
+           สารจากผู้บริหาร
+         </div>
+       </div>
+-->
+       <div class="item active">
+         <img src="images/carousel/banner_qualitypplshirt.jpg" alt="...">
+         <div class="carousel-caption">
+           เสื้อผลิตผลคนดี
+         </div>
+       </div>
+       <div class="item">
+         <img src="images/carousel/NRC_Backdrop2.jpg" alt="...">
+         <div class="carousel-caption">
+           คืนความสุข
+         </div>
+       </div>
+       <div class="item">
+         <img src="images/carousel/new_stat.jpg" alt="...">
+         <div class="carousel-caption">
+           สถิต
+         </div>
+       </div>
+     </div>
+
+     <!-- Controls -->
+     <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+       <span class="glyphicon glyphicon-chevron-left"></span>
+     </a>
+     <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+       <span class="glyphicon glyphicon-chevron-right"></span>
+     </a>
+   </div>
+   
+   
+   
      <h3 id="information-news-title"><span class="glyphicon glyphicon-pushpin icon-md icon-color1"></span>ข่าวกองประชาสัมพันธ์<a class="link-more pull-right " href="#">เพิ่มเติม...</a></h3>
      
      	<div class="row">
@@ -326,7 +325,7 @@
 <div class="container">
  <div class="row">
   <div class="doc-annouce sidebar-inner col-xs-12 col-md-4"  id="publish-documents">
-    <h3 id="docs-public-title"><span class="glyphicon glyphicon-file">เอกสารเผยแพร่</span><a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
+    <h3><span class="glyphicon glyphicon-file">เอกสารเผยแพร่</span><a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
     <div class="underline-dashed-brown">
       <p>วันที่ 4 ส.ค. 2557 เวลา 11:45 | สำนักวิจัยและพัฒนาระบบงานราชทัณฑ์</p>
       <p><span class="newbullet">NEW</span><a href="#" >ประชาสัมพันธ์เผยแพร่ เว็บไซต์งานวิจัยเกี่ยวกับงานราชทัณฑ์ Website Research of Correctional Database</a></p>
@@ -349,8 +348,8 @@
     </div>
   </div>
   <div class="doc-downloads sidebar-inner col-xs-12 col-md-4" id="download-documents">
-    <h3 id="docs-downloads-title"><span class="glyphicon glyphicon-file">เอกสารดาวน์โหลด</span><a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
-    <div class="underline-dashed-brown">
+    <h3><span class="glyphicon glyphicon-file">เอกสารดาวน์โหลด</span><a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
+    <div class="underline-dashed-brown ">
      <p>วันที่ 13 ส.ค. 2557 เวลา 13:46 | กองสังคมสงเคราะห์</p>
      <p><span class="newbullet">NEW</span><a href="#" >แบบฟอร์มขอรับการสนับสนุนเงินผลพลอยได้ ประเภทเงินทุนพัฒนาพฤตินิสัยเพื่อการจัดสวัสดิการผู้ต้องขัง (เงินหกในสิบส่วน)"</a></p>
    </div>    
@@ -420,7 +419,7 @@
 <div class="container" id="buy-news" >
 	<div class="row">
 		<div class="sidebar-inner col-xs-12 col-md-12">
-			<h3 id="buy-news-title">จัดซื้อ - จัดจ้าง<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
+			<h3>จัดซื้อ - จัดจ้าง<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
       <div class="row">
        <div class="col-6 col-sm-6 col-lg-4">
         <h4>เรือนจำอำเภอปากพนัง</h4>
@@ -462,7 +461,7 @@
 <div class="container" id="technology-news" >
 	<div class="row">
 		<div class="sidebar-inner col-xs-12 col-md-12">
-			<h3 id="technology-news-title">ศูนย์เทคโนโลยีสารสนเทศ<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
+			<h3>ศูนย์เทคโนโลยีสารสนเทศ<a class="link-more pull-right" href="#">เพิ่มเติม...</a></h3>
 			<div class="row">
 			 <div class="col-6 col-sm-6 col-lg-4">
 			  <h4>ศูนย์เทคโนโลยีสารสนเทศ</h4>
